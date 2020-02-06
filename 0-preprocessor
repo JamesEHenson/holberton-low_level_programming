@@ -1,6 +1,3 @@
-#include<stdio.h>
+#/bin/bash
 
-int main (void)
-{
-return 0;
-}
+gcc $CFILE - c
